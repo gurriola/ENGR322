@@ -1,7 +1,7 @@
 # ENGR322
 #Header
-** Bold **
-* Italics *
+**Bold**
+*Italics*
 > Block
 1. Ordered
 2. List
